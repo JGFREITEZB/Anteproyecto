@@ -1,2 +1,1 @@
-# Anteproyecto
-Anteproyecto entrega Nov 2024
+Descripcion del proyecto.
